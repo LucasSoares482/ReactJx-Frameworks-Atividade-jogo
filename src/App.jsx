@@ -1,8 +1,8 @@
 import React from 'react';
-import GameTable from './GameTable';
-import LoginForm from './LoginForm';
-import ImageComponent from './ImageComponent';
-import CheckboxComponent from './CheckboxComponent';
+import GameTable from './componentes/GameTable';
+import LoginForm from './componentes/LoginForm';
+import ImageComponent from './componentes/ImageComponent';
+import CheckboxComponent from './componentes/CheckboxComponent';
 
 const App = () => {
   return (
