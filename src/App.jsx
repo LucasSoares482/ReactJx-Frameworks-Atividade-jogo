@@ -3,6 +3,7 @@ import GameTable from './componentes/GameTable';
 import LoginForm from './componentes/LoginForm';
 import ImageComponent from './componentes/ImageComponent';
 import CheckboxComponent from './componentes/CheckboxComponent';
+import Cabecalho from './componentes/Cabecalho';
 
 const App = () => {
   return (
@@ -12,6 +13,7 @@ const App = () => {
       <LoginForm />
       <ImageComponent />
       <CheckboxComponent />
+      <Cabecalho padrao/>
     </div>
   );
 };
